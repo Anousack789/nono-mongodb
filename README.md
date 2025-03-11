@@ -83,3 +83,6 @@ docker run --rm aquasec/trivy image custom-mongo
 ## License 📜
 
 This project is licensed under the **MIT License**. See [LICENSE](LICENSE) for details.
+
+## Contributions 🤝
+Feel free to contribute! Submit a pull request or open an issue to report bugs or suggest improvements.
