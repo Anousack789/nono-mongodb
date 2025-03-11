@@ -13,7 +13,7 @@ This repository contains a **custom-built MongoDB Docker image** based on **Ubun
 
 - 🔐 **Minimized Vulnerabilities**: Avoids security risks in the official MongoDB image.
 
-- 🏗 **Latest MongoDB Version**: Built manually from MongoDB's repository.
+- 🏗 **MongoDB 7.0**: Built manually from MongoDB's repository for the latest stable version.
 
 - 🧩 **Customizable Authentication**: Supports user-defined **username/password** via environment variables.
 
